@@ -2,6 +2,8 @@
 
 This project is trying to explore the situation of Nobel Prize delay
 
+請至 ![分析頁](https://nbviewer.org/github/lch99310/Nobel_Prize_delay/blob/main/Nobel_Prize_Delay.ipynb) 觀看細節
+Please go to ![Analytics](https://nbviewer.org/github/lch99310/Nobel_Prize_delay/blob/main/Nobel_Prize_Delay.ipynb) for details.
 
 
 
